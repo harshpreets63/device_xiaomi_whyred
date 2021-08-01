@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/komodo_whyred.mk
+    $(LOCAL_DIR)/calyx_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    komodo_whyred-user \
-    komodo_whyred-userdebug \
-    komodo_whyred-eng
+    calyx_whyred-user \
+    calyx_whyred-userdebug \
+    calyx_whyred-eng
